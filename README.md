@@ -1,5 +1,8 @@
 # Mini-Game Arcade
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/40d93282-5aa4-4ea2-99db-dd1788fcc16f" />
+
+
 A feature-rich arcade application built with React and TypeScript, featuring three engaging mini-games: Memory Puzzle, AI Trivia, and Reaction Time. This project demonstrates modern web development practices using Vite, Tailwind CSS, and Google's Generative AI.
 
 ## 🎮 Games
@@ -29,7 +32,7 @@ You will also need an API key for **Google Gemini** to power the AI Trivia game.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simple-arcade-game.git
+    git clone https://github.com/harked/simple-arcade-game.git
     cd simple-arcade-game
     ```
 
